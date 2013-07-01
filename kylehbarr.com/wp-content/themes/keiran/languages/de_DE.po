@@ -1,0 +1,345 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Keiran v1.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2012-08-29 09:59:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:7
+#@ keiran
+msgid "Page not found"
+msgstr "Seite nicht gefunden."
+
+#: 404.php:10
+#@ keiran
+msgid "Apologies, but the page you requested could not be found. Perhaps searching will help."
+msgstr "Die Seite die Sie gesucht haben existiert nicht. Möglicherweise kann Ihnen die Suche helfen, die gewünschten Informationen zu finden."
+
+#: category.php:7
+#, php-format
+#@ keiran
+msgid "Category Archives: %s"
+msgstr "Kategorien Archiv"
+
+#: comments.php:3
+#@ keiran
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Dieser Artikel ist passwortgeschützt. Geben Sie bitte das Passwort ein um die Kommentare sehen zu."
+
+#: comments.php:12
+#, php-format
+#@ keiran
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Ein Kommentar zu &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s Kommentare zu &ldquo;%2$s&rdquo;"
+
+#: comments.php:18
+#: comments.php:29
+#@ keiran
+msgid "&larr; Older Comments"
+msgstr "Ältere Kommentare"
+
+#: comments.php:19
+#: comments.php:30
+#@ keiran
+msgid "Newer Comments &rarr;"
+msgstr "Neuere Kommentare"
+
+#: comments.php:37
+#@ keiran
+msgid "Comments are closed."
+msgstr "Kommentare sind geschlossen."
+
+#: single.php:13
+#@ keiran
+msgid "by"
+msgstr "von"
+
+#: content.php:18
+#: image.php:80
+#: page.php:19
+#: single.php:21
+#@ keiran
+msgid "Pages:"
+msgstr "Seiten:"
+
+#: image.php:87
+#: single.php:27
+#, php-format
+#@ keiran
+msgid "Categories: %2$s"
+msgstr "Kategorien: %2$s"
+
+#: image.php:94
+#: single.php:34
+#@ keiran
+msgid "Share on:"
+msgstr "Teilen:"
+
+#: image.php:103
+#: single.php:43
+#@ keiran
+msgid "Twitter"
+msgstr "Twitter"
+
+#: image.php:105
+#: single.php:45
+#@ keiran
+msgid "Facebook"
+msgstr "Facebook"
+
+#: image.php:107
+#: single.php:47
+#@ keiran
+msgid "Delicious"
+msgstr "Delicious"
+
+#: content.php:6
+#: image.php:109
+#: single.php:49
+#@ keiran
+msgid "Permalink "
+msgstr "Permalink"
+
+#: image.php:111
+#: single.php:51
+#@ keiran
+msgid "Edit &rarr;"
+msgstr "Bearbeiten &rarr;"
+
+#: functions.php:42
+#@ keiran
+msgid "Primary Navigation"
+msgstr "Hauptnavigation"
+
+#: functions.php:87
+#@ keiran
+msgid "Right sidebar"
+msgstr "Rechte Seitenleiste"
+
+#: functions.php:89
+#@ keiran
+msgid "The widget area on the right sidebar"
+msgstr "Der Widgetbereich in der rechten Seiteleiste."
+
+#: functions.php:133
+#, php-format
+#@ keiran
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">meint:</span>"
+
+#: functions.php:136
+#@ keiran
+msgid "Your comment is awaiting moderation."
+msgstr "Dein Kommentar wartet auf Freischaltung."
+
+#: functions.php:141
+#, php-format
+#@ keiran
+msgid "%1$s at %2$s"
+msgstr "%1$s am %2$s"
+
+#: functions.php:141
+#@ keiran
+msgid "(Edit)"
+msgstr "(Bearbeiten)"
+
+#: functions.php:156
+#@ keiran
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:156
+#@ keiran
+msgid "(edit)"
+msgstr "(bearbeiten)"
+
+#: footer.php:6
+#, php-format
+#@ keiran
+msgid "Theme: %1$s by %2$s"
+msgstr "Theme: %1$s von %2$s"
+
+#: includes/theme-options.php:99
+#@ keiran
+msgid "Custom Color"
+msgstr "Benutzerdefinierte Farbe"
+
+#: includes/theme-options.php:102
+#@ keiran
+msgid "Select a Color"
+msgstr "Farbe auswählen"
+
+#: search.php:8
+#, php-format
+#@ keiran
+msgid "Search Results for: %s"
+msgstr "Suchergebnisse für: %s"
+
+#: archive.php:32
+#: search.php:17
+#@ keiran
+msgid "Nothing Found"
+msgstr "Nichts gefunden"
+
+#: search.php:20
+#@ keiran
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Zu ihren eingegebenen Suchkriterien konnten keine Inhalte gefunden werden. Bitte versuchen Sie es mit anderen Suchbegriffen erneut."
+
+#: searchform.php:4
+#@ keiran
+msgid "search"
+msgstr "suchen"
+
+#: tag.php:8
+#, php-format
+#@ keiran
+msgid "Tag Archives: %s"
+msgstr "Schlagwort Archiv: %s"
+
+#: includes/theme-options.php:89
+#, php-format
+#@ keiran
+msgid "%s Options"
+msgstr "%s Optionen"
+
+#: includes/theme-options.php:106
+#@ keiran
+msgid "Custom Logo"
+msgstr "Benutzerdefiniertes Logo"
+
+#: includes/theme-options.php:109
+#@ keiran
+msgid "Upload your own logo image"
+msgstr "Laden Sie unter Zuhilfenahme der Wordpress-Library"
+
+#: includes/theme-options.php:109
+#@ keiran
+msgid " using the WordPress Media Library and then insert the URL here"
+msgstr "Ihr eigenes Logo auf den Server und geben Sie die Url vom Bild anschließend hier ein"
+
+#: includes/theme-options.php:110
+#@ keiran
+msgid "Custom Favicon"
+msgstr "Benutzerdefiniertes Favicon"
+
+#: includes/theme-options.php:112
+#@ keiran
+msgid "Upload your .ico Favicon image (via FTP) to your server and enter the Favicon URL here."
+msgstr "Laden Sie Ihr .ico Favicon auf Ihren Server (zum Beispiel via FTP) und geben Sie hier die Url ein."
+
+#: archive.php:15
+#, php-format
+#@ keiran
+msgid "Daily Archives: %s"
+msgstr "Archiv nach Tagen: %s"
+
+#: archive.php:17
+#, php-format
+#@ keiran
+msgid "Monthly Archives: %s"
+msgstr "Archiv nach Monaten: %s"
+
+#: archive.php:19
+#, php-format
+#@ keiran
+msgid "Yearly Archives: %s"
+msgstr "Archiv nach Jahren: %s"
+
+#: archive.php:21
+#@ keiran
+msgid "Archives"
+msgstr "Archiv"
+
+#: archive.php:35
+#@ keiran
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Der gesuchte Inhalt konnte nicht gefunden werden. Möglicherweise hilft die Suchfunktion weiter."
+
+#: content.php:17
+#: image.php:79
+#: page.php:18
+#: single.php:20
+#@ keiran
+msgid "read more &rarr;"
+msgstr "weiterlesen &rarr;"
+
+#: includes/theme-options.php:105
+#@ keiran
+msgid "Changes the color of the mouse over effects."
+msgstr "Ändert die Farben der Mouseover-Effekte."
+
+#: image.php:91
+#: single.php:31
+#, php-format
+#@ keiran
+msgid "Tags: %2$s"
+msgstr "Schlagworte: %2$s"
+
+#: footer.php:6
+#@ keiran
+msgid "proudly powered by"
+msgstr "proudly powered by"
+
+#: archive.php:43
+#@ keiran
+msgid "&larr;Older posts"
+msgstr "&larr; Ältere Artikel"
+
+#: archive.php:44
+#: category.php:18
+#: image.php:127
+#: index.php:13
+#: single.php:72
+#: tag.php:20
+#@ keiran
+msgid "Newer posts &rarr;"
+msgstr "Neuere Artikel &rarr;"
+
+#: category.php:17
+#: image.php:126
+#: index.php:12
+#: single.php:71
+#: tag.php:19
+#@ keiran
+msgid "&larr; Older posts"
+msgstr "&larr; Ältere Artikel "
+
+#: image.php:22
+#, php-format
+#@ keiran
+msgid "<p>Published on %1$s at <a href=\"%2$s\" title=\"Link to full-size image\">%3$s &times; %4$s</a> in <a href=\"%5$s\" title=\"Return to %6$s\" rel=\"gallery\">%6$s</a></p>"
+msgstr "<p>Gespostet am %1$s at <a href=\"%2$s\" title=\"Link zum hochauflösenden Bild\">%3$s &times; %4$s</a> in <a href=\"%5$s\" title=\"Return to %6$s\" rel=\"gallery\">%6$s</a></p>"
+
+#: image.php:32
+#@ keiran
+msgid "&larr; Previous"
+msgstr "&larr; Vorheriges"
+
+#: image.php:33
+#@ keiran
+msgid "Next &rarr;"
+msgstr "Nächstes &rarr;"
+
+#: includes/theme-options.php:55
+#: includes/theme-options.php:56
+#@ keiran
+msgid "Keiran Options"
+msgstr "Keiran Optionen"
+
