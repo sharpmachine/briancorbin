@@ -1,0 +1,9 @@
+*.htaccess
+*wp-config.php
+*wp-content/upgrade/
+*wp-content/backup-db/
+*.log
+*wp-content/cache/
+*wp-content/backups/
+*sitemap.xml
+*sitemap.xml.gz
